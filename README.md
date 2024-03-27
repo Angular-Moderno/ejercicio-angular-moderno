@@ -1,6 +1,6 @@
 # Ejercicio práctico de desarrollo con Angular Moderno Versión 17 o superior.
 
-> [!TIP]  
+> [!NOTE]  
 > **Especificaciones técnicas** 
 > Características de Angular Moderno que debes implementar en el ejercicio.
 
