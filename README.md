@@ -1,7 +1,8 @@
 # Ejercicio práctico de desarrollo con Angular Moderno Versión 17 o superior.
 
 > [!TIP]  
-> **Especificaciones técnicas** Características de Angular Moderno que debes implementar en el ejercicio.
+> **Especificaciones técnicas** 
+> Características de Angular Moderno que debes implementar en el ejercicio.
 
 - Usa Angular V17 o superior.
 
@@ -17,15 +18,15 @@
 
 - Mantén una estructura de carpetas ordenada y limpia
 
-> [!TIP] > **Datos de ejemplo** Usa JSON Server para simular una base de datos REST.
+> [!TIP]
+> **Datos de ejemplo** 
+> Usa JSON Server para simular una base de datos REST.
 
 Se encuentran en el archivo `db.json` y se pueden cargar con el comando:
 
 ```bash
 npx json-server db.json
 ```
-
-### Tablas de la base de datos:
 
 - Deportes: id, nombre, descripción
 
@@ -35,8 +36,9 @@ npx json-server db.json
 
 - Compras: id, carrito_id, transporte, total
 
-> [!TIP]
-> **Funcionalidad** Implementa las funcionalidades que puedas en el tiempo que tengas disponible (sin estrés).
+> [!TIP] 
+> **Funcionalidad** 
+> Implementa las funcionalidades que puedas en el tiempo que tengas disponible (sin estrés).
 
 - Desarrollar el portal para una tienda online de venta de productos deportivos y de aventura.
 
