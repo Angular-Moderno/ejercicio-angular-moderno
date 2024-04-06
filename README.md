@@ -32,7 +32,7 @@ npx json-server db.json
 
 - Productos: id, nombre, descripción, precio, stock, categoría_id
 
-- Carrito: id, producto_id, cantidad
+- Carrito: id, [producto_id, cantidad]
 
 - Compras: id, carrito_id, transporte, total
 
